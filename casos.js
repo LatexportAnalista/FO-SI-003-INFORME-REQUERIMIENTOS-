@@ -525,6 +525,13 @@ document.addEventListener("DOMContentLoaded", () => {
         tipo: "Portatil",
         placa: "86164"
       },
+         "YONY ALBERTO ZULUAGA VASQUEZ": {
+        cargo: "JEFE DE GESTIÓN HUMANA",
+        area: "GESTIÓN HUMANA",
+        tipo: "Portatil",
+        placa: "79243"
+      },
+        
       "PORTEROS ": {
         cargo: "PORTERIA",
         area: "SEGURIDAD",
